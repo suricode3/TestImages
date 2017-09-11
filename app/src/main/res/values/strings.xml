@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestImages</string>
+    <string name="action_settings">Settings</string>
+    <string name="eng_imagetype">Image Type</string>
+    <string name="eng_imagecapture">Image Capture</string>
+    <string name="eng_changeimage">Change Image</string>
+    <string name="eng_description">Description</string>
+    <string name="eng_type">Description</string>
+</resources>
